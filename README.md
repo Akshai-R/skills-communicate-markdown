@@ -1,4 +1,4 @@
-<header>
+<communicate using markdown>
 
 <!--
   <<< Author notes: Course header >>>
